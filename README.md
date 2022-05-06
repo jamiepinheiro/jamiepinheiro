@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [jamiepinheiro.com](jamiepinheiro.com) for more on me.
+Check out [jamiepinheiro.com](https://jamiepinheiro.com) for more on me.
 
 <!--
 **jamiepinheiro/jamiepinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
